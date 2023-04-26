@@ -1,17 +1,39 @@
-# Chau Van Loc
+<div style="display: flex; align-items: end; margin-bottom: 40px">
 
-<img src="./images/MyImage.JPG" width="120" style='border-radius: 10px; margin-bottom: 20px;'/>
+<div>
+<img src="./images/MyImage.JPG" width="160" style='border-radius: 10px;'/>
+</div>
+
+<div style="margin-left: 70px">
+<h2>Chau Van Loc</h2>
+<h4>Font end developer</h4>
+</div>
+
+</div>
+
+<div style="overflow: auto; display: flex; align-items: end;">
+    <div>
+
+- 🏰**Address**: Ho Chi Minh, Viet Nam
+- 📞**Phone**: 0346 128 692
+- 🔗**Github**: [github.com/ChauVanLoc](https://github.com/ChauVanLoc)
+
+</div>
+<div style="margin-left: 40px">
 
 - 👶**Birthday**: 22/04/2001
-- 🏰**Address**: Ho Chi Minh, Viet Nam
+- 📧**Email**: [locchau.220401@gmail.com](mailto:locchau.220401@gmail.com)
+- 🔗**Facebook**: [www.facebook.com/chauvanloc](https://www.facebook.com/220401chauvanloc/)
+</div>
+</div>
 
 ## 🙋🏻‍♂️Brief introduction
 
-> Hi, I am a 4th year IT student about to graduate. I can code all day without getting tired.
+> Hi, I'm a front-end developer who can code all day without getting tired.
 
 I started learning to code in 2019. My future goal is to become a full-stack developer. I will create a website and youtube channel to share my knowledge with everyone because my life motto is "Giving is forever".
 
-For the past 18 months, I have focused on learning front-end web programming. Now I am confident that my ability can meet your requirements.
+For the past 18 months, I have focused on learning front-end web programming. You may have yet to see any information about the company I work for because I am a student. But I am confident that my ability can meet all your requirements.
 
 ## 👔Projects
 
@@ -37,11 +59,11 @@ This is a project to clone the user page of the e-commerce platform [Shopee](htt
 - Display images carousel with React Slick
 - Create background images with Figma
 
-**🔗Webiste**: [https://vercel.com](https://vanlocshop.vercel.app/)
+**🔗Webiste**: [https://vanlocshop.vercel.app](https://vanlocshop.vercel.app)
 
 **🔐Account for testing**: `check@gmail.com` / `111111`
 
-**🔗Github**: [https://github.com](https://github.com/ChauVanLoc/ShopeeClone)
+**🔗Github**: [https://github.com/ChauVanLoc/ShopeeClone](https://github.com/ChauVanLoc/ShopeeClone)
 
 ### E-commerce Website
 
@@ -55,7 +77,7 @@ This is an information system safety and security course project. I teamed up wi
 - Create and verify the digital signature
 - Code Splitting
 
-**🔗Github**: [https://github.com](https://github.com/LuongHuuLuan/NHOM-22_ATBMHTTT_2022)
+**🔗Github**: [https://github.com/LuongHuuLuan/NHOM-22_ATBMHTTT_2022](https://github.com/LuongHuuLuan/NHOM-22_ATBMHTTT_2022)
 
 ### Todo App
 
@@ -69,7 +91,7 @@ This is a small exercise after I learned the hooks in ReactJS.
 - Linting with Prettier and ESLint
 - Higher-order component (HOC)
 
-**🔗Github**: [https://github.com](https://github.com/ChauVanLoc/TodoList-Reactjs)
+**🔗Github**: [https://github.com/ChauVanLoc/TodoList-Reactjs](https://github.com/ChauVanLoc/TodoList-Reactjs)
 
 ### App Food
 
@@ -83,7 +105,7 @@ This is a small exercise to create an Rest Api for App Food.
 - Validate user input
 - Code Splitting
 
-**🔗Github**: [https://github.com](https://github.com/ChauVanLoc/App_Food)
+**🔗Github**: [https://github.com/ChauVanLoc/App_Food](https://github.com/ChauVanLoc/App_Food)
 
 ## 🔧Skills
 
@@ -134,12 +156,12 @@ Write, Present, Teamwork, Crypto, Trading.
 
   Native speaker.
 
-## ☎️Contact information
+<!-- ## ☎️Contact information
 
 - 📞Phone: 0346 128 692
 - 📧Email: [locchau.220401@gmail.com](mailto:locchau.220401@gmail.com)
 - 🔗Github: [https://github.com/ChauVanLoc](https://github.com/ChauVanLoc)
-- 🔗Facebook: [https://www.facebook.com/chauvanloc](https://www.facebook.com/220401chauvanloc/)
+- 🔗Facebook: [https://www.facebook.com/chauvanloc](https://www.facebook.com/220401chauvanloc/) -->
 
 ## 🙏🏻Thanks!
 
