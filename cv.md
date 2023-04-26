@@ -109,7 +109,8 @@ React, React Query, RTK Query, Redux, Styled Components, TailwindCss, Sass, Webp
 ### 🔨Dev Tools
 
 - IDE: Ecclipse, VS Code, Visual Studio, Intellij IDEA
-- Databases: MySQL, SQL Server, Xampp, Adminer
+- Databases: MySQL, SQL Server
+- Database manage system: Xampp, Adminer
 - API testing tools: Postman
 - Design tools: Figma, Adobe XD
 - Container platform: Docker
