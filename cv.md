@@ -9,7 +9,7 @@
 
 > Hi, I am a 4th year IT student about to graduate. I can code all day without getting tired.
 
-I started learning to code in 2019. My future goal is to become a full-fledged developer. I will create a website and youtube channel to share my knowledge with everyone because my life motto is "Giving is forever".
+I started learning to code in 2019. My future goal is to become a full-stack developer. I will create a website and youtube channel to share my knowledge with everyone because my life motto is "Giving is forever".
 
 For the past 18 months, I have focused on learning front-end web programming. Now I am confident that my ability can meet your requirements.
 
