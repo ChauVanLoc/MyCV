@@ -97,18 +97,24 @@ I'm quite confident that I can catch up with other languages when needed very qu
 
 ### 💻Web Front-end Technologies
 
-JSP Servlet, React, React Query, RTK Query, Redux, Styled Components, TailwindCss, Sass, Webpack, Axios, Vite, Vitest, HTML5, CSS3, SEO.
+React, React Query, RTK Query, Redux, Styled Components, TailwindCss, Sass, Webpack, Axios, Vite, Vitest, HTML5, CSS3, SEO.
 
 ### 🧮Web Back-end Technologies
 
 - Protocols: REST, HTTP(S)
-- Frameworks/Libraries: Node.js, Json server, ExpressJS, NestJS, Graphql
+- Frameworks/Libraries: JSP, Servlet, Node.js, Json server, ExpressJS, NestJS, Graphql
 - Databases: MySQL, Sql Server, Prisma, Sequelize
 - Cloud Services: Vercel
 
 ### 🔨Dev Tools
 
-Git, Postman, Docker, MySQL Workbench, Xampp, Adminer, React Developer Tool, Redux Dev Tool, React Query Dev Tool, Github, Figma, Adobe XD, VS Code, Bash, Ecclipse, Visual Studio, Intellij IDEA.
+- IDE: Ecclipse, VS Code, Visual Studio, Intellij IDEA
+- Databases: MySQL, SQL Server, Xampp, Adminer
+- API testing tools: Postman
+- Design tools: Figma, Adobe XD
+- Container platform: Docker
+- Source version control: Github, Gitbash
+- Other: React Developer Tool, Redux Dev Tool, React Query Dev Tool
 
 ### 💁🏻‍♂️Industrial & Interpersonal Skills
 
