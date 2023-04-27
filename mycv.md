@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: end; margin-bottom: 40px">
 
 <div>
-<img src="./images/MyImage.JPG" width="160" style='border-radius: 10px;'/>
+<img src="/images/myimg-removebg-preview.png" width="160" style='border-radius: 10px;'/>
 </div>
 
 <div style="margin-left: 70px">
